@@ -5,9 +5,9 @@
 - From that directory, put the files into your repository
 - 3 steps:
 
-1)
+- 1
 git add *
-2)
+- 2
 git commit -m "init"
-3)
+- 3
 git push
