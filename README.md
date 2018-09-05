@@ -6,8 +6,8 @@
 - 3 steps:
 
 - 1
-git add *
+# git add *
 - 2
-git commit -m "init"
+# git commit -m "init"
 - 3
-git push
+# git push
